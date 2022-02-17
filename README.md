@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @clbrwr
+- 👋 Hi, I’m cole!
 - 👀 I’m interested in low level python coding. I just started learning how to code.
 
 <!---
